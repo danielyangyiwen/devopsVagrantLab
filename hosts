@@ -6,8 +6,9 @@
 ff02::1 ip6-allnodes
 ff02::2 ip6-allrouters
 
-192.168.30.30 control
-192.168.30.31 node1
-192.168.30.32 node2
-192.168.30.33 node3
-192.168.30.29 node4
+192.168.30.29 control
+192.168.30.30 jenkins
+192.168.30.31 maven
+192.168.30.32 sonarqube
+192.168.30.33 argoCD
+192.168.30.34 kubernetes
